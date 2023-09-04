@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matteojakob
-- 👀 I’m interested in JavaScript, HTML, CSS, C#, Python
+- 👀 I’m interested in JavaScript, HTML, CSS, C#, Python, C++, Rust, JavaScript
 - 📧 Reach me at matteo.jakob@gmail.com
 
 
